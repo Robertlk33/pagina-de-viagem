@@ -23,7 +23,9 @@ Aqui, pude colocar em prática várias habilidades que venho desenvolvendo com o
 Cada novo projeto é uma oportunidade de crescer e aplicar mais técnica, criatividade e atenção aos detalhes.
 
 ---
-##
+## Imagem da página 
+
+
 ---
 
 ## 🚀 Visualize o projeto
