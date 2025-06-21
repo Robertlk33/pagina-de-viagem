@@ -32,9 +32,8 @@ Cada novo projeto é uma oportunidade de crescer e aplicar mais técnica, criati
 
 ## 🚀 Visualize o projeto
 
-🔗 [Clique aqui para acessar a página online](https://seu-usuario.github.io/nome-do-projeto/)  
-📦 [Veja o repositório no GitHub](https://github.com/seu-usuario/nome-do-projeto)
-
+🔗 [Repositório no GitHub](https://github.com/Robertlk33/pagina-de-viagem)  
+🌐 [Veja o projeto online via GitHub Pages](https://robertlk33.github.io/pagina-de-viagem/)
 ---
 
 ## 🤝 Vamos conectar?
