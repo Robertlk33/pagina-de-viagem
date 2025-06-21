@@ -25,6 +25,8 @@ Cada novo projeto é uma oportunidade de crescer e aplicar mais técnica, criati
 ---
 ## Imagem da página 
 
+![Visual do Projeto](./img/Captura%20de%20tela%202025-06-20%20230442.png)
+
 
 ---
 
